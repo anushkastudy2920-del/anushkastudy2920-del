@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hey, I'm Anushka.
 
-<!--
-**anushkastudy2920-del/anushkastudy2920-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build. I break. I understand. I rebuild better.**
 
-Here are some ideas to get you started:
+I'm a developer exploring **Cybersecurity, AI/ML, and Web Development**, with a particular interest in problems where technology meets real human behaviour.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects are where I learn best — building systems, solving problems, experimenting with ideas, and figuring out what actually works.
+
+Currently working with **Python, JavaScript, Node.js, Express.js, HTML, CSS, Git, GitHub, and MS Excel**, while continuously expanding my technical toolkit.
+
+ Some things I've built :
+
+**🛡️ Guardian**
+Human-centric cybersecurity with threat detection, behavioural analysis, alert-fatigue awareness, risk evaluation, and adaptive response.
+
+**💻 InsightVox**
+A full-stack campus complaint and feedback platform.
+
+### Beyond the Code
+
+I'm interested in **Cybersecurity • AI/ML • Web Development • Secure Systems • Problem Solving**
+
+> **Build with curiosity.
+> Learn by doing.
+> Leave things better than you found them.**
